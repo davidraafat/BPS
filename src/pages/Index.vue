@@ -27,15 +27,15 @@
       <div class="section section-images" style="height: auto;">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-md-8">
-              <div class="hero-images-container">
-                <img src="img/elevator.png" alt="" />
+            <div class="col-md-8 m-5">
+              <div class="hero-images-container-1">
+                <img src="img/p1.png" alt="" height="100%" />
               </div>
               <!-- <div class="hero-images-container-1">
-                <img src="img/elevator.png" alt="" />
-              </div>
-              <div class="hero-images-container-2">
-                <img src="img/elevator.png" alt="" />
+                <img src="img/p1.png" alt="" />
+              </div> -->
+              <!-- <div class="hero-images-container-2">
+                <img src="img/p2.png" alt="" />
               </div> -->
             </div>
           </div>
@@ -48,21 +48,14 @@
             <div class="col-md-8 ml-auto mr-auto text-center">
               <h2 class="title">Who we are?</h2>
               <h5 class="description text-dark">
-                We are specialized computer and Printer Company with a team of highly qualified and
-                efficient engineers who aims at gaining your respect. Found in 1999, B.P.S is a well respected member of the printer industry.
-                We have evolved into one of the most active suppliers of parts and accessories for
-                the Hewlett-packard laserjet lines of printers in Egypt, as well as for all printers that
-                use canon engines.
-                We offer new parts from the original equipment manufacturer (OEM) and from
-                quality tested third party suppliers. In addition, substantial cost savings can be
-                achieved by opting for our fully refurbished subassemblies and circuit boards,
-                which can in many cases bs exchange in advance or exchange new. We also sell a
-                variety of completely refurbished, like-new HP laser jet printers and desk jet
-                printers To help our customers find just what they need, we provide a searchable
-                database, online cataloge with parts tables and exploded view diagrams. We
-                have a great staff and knowledgable sales people. And it is because of the very
-                high quality of our new, refubished, and exchange products that our customers
-                come back to us again and again.
+                Established in 1999, B.P.S is a trusted leader in the computer and printer industry,
+                specializing in providing high-quality parts, accessories, and services for HP LaserJet 
+                and Canon-engine printers in Egypt. With a team of highly qualified engineers and knowledgeable 
+                sales professionals, we pride ourselves on delivering innovative solutions that prioritize quality, 
+                reliability, and customer satisfaction. As an active supplier of OEM and rigorously tested third-party 
+                components, we also offer cost-effective refurbished subassemblies, circuit boards, and fully restored HP 
+                printers. Our user-friendly online catalog, searchable database, and exploded-view diagrams empower customers 
+                to find exactly what they need efficiently.
               </h5>
             </div>
           </div>
@@ -85,7 +78,7 @@
                 <!-- Second image on the left side of the article -->
                 <div
                   class="image-container"
-                  style="background-image: url('img/b3.jpg')"
+                  style="background-image: url('img/bg-3.jpg')"
                 ></div>
               </div>
               <div class="col-md-5">
@@ -146,20 +139,20 @@
               <div class="row">
                 <div class="col-md-4 mb-3">
                   <div class="cookie-card">
-                      <span class="title-card">👷‍♂️ 15+ years of experience</span>
-                      <p class="description-card text-muted">The core members of the team have more than 15 years of experience in the elevator industry. </p>
+                      <span class="title-card">👷‍♂️ Expertise & Experience</span>
+                      <p class="description-card text-muted">Over two decades of industry leadership, backed by a skilled team dedicated to solving your printer needs.</p>
                   </div>
                 </div>
                 <div class="col-md-4 mb-3">
                   <div class="cookie-card">
-                      <span class="title-card">📈 Completed Sales System</span>
-                      <p class="description-card text-muted">Pre-sales team 1V1 provides customers with the best solutions. Bilingual after-sales engineers are available online to help customers solve after-sales problems at any time.</p>
+                      <span class="title-card">📈 Quality Assurance</span>
+                      <p class="description-card text-muted">Choose from original OEM parts, certified third-party alternatives, or premium refurbished products—all tested for performance.</p>
                   </div>
                 </div>
                 <div class="col-md-4 mb-3">
                   <div class="cookie-card">
-                      <span class="title-card">💡 Keeping pace with the times </span>
-                      <p class="description-card text-muted">An experienced team of engineers with the ability to continuously innovate. R&D department regularly introduces advanced materials and technologies. </p>
+                      <span class="title-card">💡 Trusted Reputation </span>
+                      <p class="description-card text-muted">A loyal customer base that returns for our consistent reliability, exceptional service, and long-term value. </p>
                   </div>
                 </div>
               </div>
@@ -168,7 +161,7 @@
           <div class="separator separator-primary"></div>
         </div>
       </div>
-      <div class="section section-about-us">
+      <!-- <div class="section section-about-us">
         <div class="container">
           <div class="row">
             <div class="col-md-12 ml-auto mr-auto text-center">
@@ -206,9 +199,9 @@
           </div>
           <div class="separator separator-primary"></div>
         </div>
-      </div>
+      </div> -->
       <!-- Section of products -->
-      <div class="section section-team text-center">
+      <!-- <div class="section section-team text-center">
       <div class="container">
         <h2 class="title">Here is our products</h2>
         <div class="team">
@@ -324,7 +317,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
       <!-- Section to add -->
       <div class="section section-contact-us text-center">
         <div class="container">
