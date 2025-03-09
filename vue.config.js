@@ -1,7 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/BPS/'  // Replace <REPO-NAME> with your GitHub repository name
-    : '/',
+  publicPath: './', // Use relative paths for static deployment
   css: {
     // Enable CSS source maps.
     sourceMap: process.env.NODE_ENV !== 'production'
